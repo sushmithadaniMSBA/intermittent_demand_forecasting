@@ -22,7 +22,13 @@ streamlit run app.py
 
 3. Upload the Excel file with monthly features to get predictions.
 
-## Author
+## Demo video
+[watch the demo] 
+https://drive.google.com/file/d/1wPNo2OvdF1dJc7YOIQUn8qiFiVADA3uF/view?usp=drive_link
+
+This video shows how to use the Streamlit app for forecasting Intermittent Demand. 
+
+## Done by
 Sushmitha Dani  
 MS Business Analytics 
 Capstone Project 1 - Intermittent Demand Prediction using Machine Learning
