@@ -24,7 +24,7 @@ streamlit run app.py
 
 ## Demo video
 [watch the demo] 
-https://drive.google.com/file/d/1wPNo2OvdF1dJc7YOIQUn8qiFiVADA3uF/view?usp=drive_link
+https://drive.google.com/file/d/11GuhjRXJ0_Iqop8_bF1aeufY_ZQTHA0r/view?usp=drive_link
 
 This video shows how to use the Streamlit app for forecasting Intermittent Demand. 
 
